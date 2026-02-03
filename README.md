@@ -11,5 +11,5 @@ Run notebooks, as usual, using a Jupyter Notebook server, Collab Notebook server
 
 #### **Data Analysis and Visualization**
 
-[Credit Card Analysis](./credit-card-analysis): A Python-based credit card data analysis focused on product-wise spending comparisons and monthly/yearly trend analysis.
+[Credit Card Analysis](./Creditcard_analysis): A Python-based credit card data analysis focused on product-wise spending comparisons and monthly/yearly trend analysis.
 Used Pandas for data processing and Matplotlib & Seaborn for visualizing spending behavior.
