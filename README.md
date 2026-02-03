@@ -15,3 +15,5 @@ Run notebooks, as usual, using a Jupyter Notebook server, Collab Notebook server
 Used Pandas for data processing and Matplotlib & Seaborn for visualizing spending behavior.
 
 [Supply Chain Inventory Stock Analysis](./Supply-chain-inventory-analysis): Analyzed supply chain and inventory stock data using Excel, SQL, and Python to identify demand patterns, stock movement, and inventory performance.  Built interactive Tableau dashboards to visualize inventory trends and key supply chain KPIs for data-driven decision making.
+
+[Ecommerce Sales and Customer Insights](./customer-insights): SQL-based analysis of ecommerce sales and customer data to uncover trends, patterns and key performance metrics. Focused on querying, aggregations to derive customer insights.
