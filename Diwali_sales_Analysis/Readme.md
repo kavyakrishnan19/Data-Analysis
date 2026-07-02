@@ -29,7 +29,7 @@ Customers from Uttar Pradesh, Maharashtra, and Karnataka from IT, Healthcare and
 Food, Clothing, and Electronics were the top-selling categories
 Higher discounts significantly increased order quantity but reduced profit margins
 Peak sales observed during pre-Diwali and Diwali week
-
-##Conclusion
+ 
+## Conclusion
 
 This analysis provides valuable insights into customer behavior and sales trends during Diwali, helping businesses optimize inventory, marketing strategies, and discount planning for future festive seasons.
