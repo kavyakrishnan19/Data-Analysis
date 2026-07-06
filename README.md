@@ -22,4 +22,4 @@ Delivered business recommendations to improve customer targeting, inventory mana
 
 [Ecommerce Sales and Customer Insights](./customer-insights): SQL-based analysis of ecommerce sales and customer data to uncover trends, patterns and key performance metrics. Focused on querying, aggregations to derive customer insights.
 
-[Credit Card Analysis](./Credit_Card_Financial_Dashboard): To develop a comprehensive credit card weekly dashboard that provides real-time insights into key performance metrics and trends, enabling stakeholders to monitor and analyze credit card operations effectively.
+[Credit Card Financial Dashboard using Power BI](./Credit_Card_Financial_Dashboard): To develop a comprehensive credit card weekly dashboard that provides real-time insights into key performance metrics and trends, enabling stakeholders to monitor and analyze credit card operations effectively.
